@@ -1,0 +1,16 @@
+.user-detail-card {
+  margin: 16px;
+  padding: 16px;
+}
+
+.user-detail-divider {
+  margin: 16px 0 !important;
+}
+
+.user-detail-info {
+  margin-bottom: 8px !important;
+}
+
+.user-detail-actions {
+  margin-top: 24px;
+}
